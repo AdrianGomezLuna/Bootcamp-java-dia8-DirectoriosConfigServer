@@ -1,7 +1,0 @@
-server:
-  port: 8089
-spring:
-  application:
-    name: configclient
-  some:
-    value: valor del servidor
