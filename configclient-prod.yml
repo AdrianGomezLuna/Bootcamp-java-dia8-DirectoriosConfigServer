@@ -5,8 +5,3 @@ spring:
     name: configclient-prod
 some:
   value: valor del servidor Productor
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
