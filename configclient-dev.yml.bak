@@ -4,4 +4,4 @@ spring:
   application:
     name: configclient-dev
 some:
-  value: valor del servidor desarrollador Updates 2.0
+  value: valor del servidor desarrollador Updates
